@@ -35,8 +35,6 @@ def DetectarColor(mascaraazul, mascaranaranja, fotograma):
         color_detectado = "AZUL"
         return fotograma_mascara_azul_gris_difuminado_binario, color_detectado
 
-def nada():
-    None
 
 #Variables globales
 lista_puntosxy_naranja = []

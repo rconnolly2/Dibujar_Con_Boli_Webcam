@@ -1,0 +1,6 @@
+h_min = cv2.getTrackbarPos("Hue Min", "ventana1")
+    h_max = cv2.getTrackbarPos("Hue Max", "ventana1")
+    sat_min = cv2.getTrackbarPos("Sat Min", "ventana1")
+    sat_max = cv2.getTrackbarPos("Sat Max", "ventana1")
+    v_min = cv2.getTrackbarPos("Val Min", "ventana1")
+    v_max = cv2.getTrackbarPos("Val Max", "ventana1")
